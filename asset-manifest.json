@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5be501ec.css",
-    "main.js": "/static/js/main.809ed026.js",
+    "main.css": "/static/css/main.d2e437df.css",
+    "main.js": "/static/js/main.d838a523.js",
     "static/js/592.a6171da5.chunk.js": "/static/js/592.a6171da5.chunk.js",
     "static/media/pantalon5-removebg-preview.png": "/static/media/pantalon5-removebg-preview.5786769b5785791a4a30.png",
     "static/media/camiseta7-removebg-preview.png": "/static/media/camiseta7-removebg-preview.5fe43253a839b1d7c9f8.png",
@@ -58,12 +58,12 @@
     "static/media/images__1_-removebg-preview.png": "/static/media/images__1_-removebg-preview.b05e4667bdef2587534a.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.5be501ec.css.map": "/static/css/main.5be501ec.css.map",
-    "main.809ed026.js.map": "/static/js/main.809ed026.js.map",
+    "main.d2e437df.css.map": "/static/css/main.d2e437df.css.map",
+    "main.d838a523.js.map": "/static/js/main.d838a523.js.map",
     "592.a6171da5.chunk.js.map": "/static/js/592.a6171da5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5be501ec.css",
-    "static/js/main.809ed026.js"
+    "static/css/main.d2e437df.css",
+    "static/js/main.d838a523.js"
   ]
 }
